@@ -1,3 +1,3 @@
-## A Game in Built in React
+## The first chapter
 
-Yep.
+Story is a WIP, along with much of everything else.
